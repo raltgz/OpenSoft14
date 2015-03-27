@@ -1,0 +1,73 @@
+10
+
+dir
+20
+https://subversion.assembla.com/svn/msos_new/src/testcases
+https://subversion.assembla.com/svn/msos_new
+
+
+
+2014-03-27T07:52:22.987799Z
+3
+srikarpolipalli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+93d0cebe-96c2-4509-9eea-68025ea7f482
+
+srs_test1
+dir
+
+srs_test2
+dir
+
+test
+dir
+
+test1
+dir
+
+test10
+dir
+
+test12
+dir
+
+test13
+dir
+
+test2
+dir
+
+test3
+dir
+
+test4
+dir
+
+test5
+dir
+
+test6
+dir
+
+test7
+dir
+
+test8
+dir
+
+test9
+dir
+
